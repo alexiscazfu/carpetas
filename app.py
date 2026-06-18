@@ -7,7 +7,7 @@ import tempfile
 st.title("Generador de Carpetas de Universidades")
 
 archivo = st.file_uploader(
-    "Cuñis, selecciona el archivo Excel",
+    "Seleccione el archivo Excel",
     type=["xlsx"]
 )
 
